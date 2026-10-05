@@ -49,9 +49,7 @@ docker --version
 ```powershell
 git clone https://github.com/nimaraislam/fastapi-demo.git
 cd fastapi-demo
-```
 
-Replace `<your-username>` and `<repo-name>` with the real values from the GitHub page.
 
 ---
 
